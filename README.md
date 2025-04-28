@@ -3,7 +3,7 @@
 Автоматически запускает Spotify при подключении Bluetooth-устройства.  
 
 ## 🔧 Установка  
-1. Скачайте APK из [Releases](https://github.com/ваш-логин/BluetoothSpotifyLauncher/releases).  
+1. Скачайте APK из [Releases](https://github.com/Tt87777 //BluetoothSpotifyLauncher/releases).  
 2. Установите на Android.  
 
 ## ⚙️ Как работает?  
